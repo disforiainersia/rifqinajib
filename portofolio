@@ -1,0 +1,39 @@
+<!DOCTYPE html> 
+< html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Portfolio - [Rifqi Najib]</title>
+</head>
+
+<body>
+    <header>
+        <h1>[Rifqi Najib]</h1>
+        <p>Seseorang dengan minat dalam [area tertentu].</p>
+    </header>
+
+    <section id="projects">
+        <h2>Proyek Terkini</h2>
+        <div class="project">
+            <h3>[Nama Proyek 1]</h3>
+            <p>[Deskripsi singkat proyek dan tujuannya]</p>
+            <a href="[Tautan Repository Proyek 1]">Tautan Repository</a>
+        </div>
+
+        <div class="project">
+            <h3>[Nama Proyek 2]</h3>
+            <p>[Deskripsi singkat proyek dan tujuannya]</p>
+            <a href="[Tautan Repository Proyek 2]">Tautan Repository</a>
+        </div>
+    </section>
+
+    <!-- Tambahkan bagian lain sesuai kebutuhan seperti Kontribusi Open Source, Pendidikan, Keterampilan, dll. -->
+
+    <footer>
+        <p>&copy; 2024 [Nama Anda]</p>
+    </footer>
+</body>
+
+</html>
